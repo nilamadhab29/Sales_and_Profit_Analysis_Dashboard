@@ -25,6 +25,9 @@ This dashboard provides insights into:
 
 * 🚚 Average Shipping Time: 4 Days
 
+<img width="1141" height="8" alt="image" src="https://github.com/user-attachments/assets/55622f78-4c34-4da1-a15c-5f2b2911fd3d" />
+
+
 It helps stakeholders understand performance by Region, Category, Segment, Customer, and Time.
 
 📌 Key Features
