@@ -8,7 +8,7 @@ This project demonstrates how raw sales data can be transformed into meaningful 
 
 data visualization and KPI tracking.
 
-<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/0ec95758-b1e9-465e-97e0-79556eb1c7c8" />
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/5f09c197-e14a-4f18-9442-2c80a0ca8bcc" />
 
 
 🚀 Project Overview
@@ -25,7 +25,7 @@ This dashboard provides insights into:
 
 * 🚚 Average Shipping Time: 4 Days
 
-<img width="1141" height="8" alt="image" src="https://github.com/user-attachments/assets/55622f78-4c34-4da1-a15c-5f2b2911fd3d" />
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/6f6cd146-25ce-4594-b6b5-d05ef0b527cc" />
 
 
 It helps stakeholders understand performance by Region, Category, Segment, Customer, and Time.
@@ -66,6 +66,8 @@ It helps stakeholders understand performance by Region, Category, Segment, Custo
 
 * Return Analysis (Delivered vs Returned Orders)
 
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/8bbf39e8-7637-449a-8095-57c55cc70abb" />
+
 🛠 Tools & Technologies Used
 
 * Power BI
@@ -77,6 +79,8 @@ It helps stakeholders understand performance by Region, Category, Segment, Custo
 * Data Cleaning & Transformation
 
 * Interactive Filters & Slicers
+
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/419ad6e6-d6b6-4421-acb8-1a596d1a4825" />
 
 🎯 Business Impact
 
@@ -92,10 +96,14 @@ This dashboard helps businesses:
 
 * Support data-driven decision-making
 
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/367632d7-0d2c-457c-9c4c-e5e463e73071" />
+
 <img width="1275" height="716" alt="Screenshot 2026-02-10 093340" src="https://github.com/user-attachments/assets/f2c1e761-9cb6-483e-b203-8fb58fb10d6b" />
 <img width="1276" height="717" alt="Screenshot 2026-02-10 093416" src="https://github.com/user-attachments/assets/aab4333b-98c5-4e16-adf2-4c0be0b0c61c" />
 <img width="1274" height="715" alt="Screenshot 2026-02-10 093523" src="https://github.com/user-attachments/assets/ffc02460-9085-4e07-8635-475054b0c615" />
 <img width="1276" height="715" alt="Screenshot 2026-02-10 093605" src="https://github.com/user-attachments/assets/700d7612-99d9-4ac1-8619-0a162087a4cc" />
+
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/5cf21490-5901-456f-8706-2dc486556376" />
 
 📚 Skills Demonstrated
 
@@ -110,6 +118,8 @@ This dashboard helps businesses:
 * Dashboard Design
 
 * Data Storytelling
+
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/70e8f8e7-dc9d-40ac-bb9a-ce14416d0832" />
 
 👤 Author
 
