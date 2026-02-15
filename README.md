@@ -12,15 +12,15 @@ data visualization and KPI tracking.
 
 This dashboard provides insights into:
 
-💰 Total Sales: $2.3M
+* 💰 Total Sales: $2.3M
 
-📈 Total Profit: $286K
+* 📈 Total Profit: $286K
 
-🧾 Total Orders: 5009
+* 🧾 Total Orders: 5009
 
-📊 Profit Margin: 12.47%
+* 📊 Profit Margin: 12.47%
 
-🚚 Average Shipping Time: 4 Days
+* 🚚 Average Shipping Time: 4 Days
 
 It helps stakeholders understand performance by Region, Category, Segment, Customer, and Time.
 
@@ -61,29 +61,29 @@ Return Analysis (Delivered vs Returned Orders)
 
 🛠 Tools & Technologies Used
 
-Power BI
+* Power BI
 
-Data Modeling
+* Data Modeling
 
-DAX Calculations
+* DAX Calculations
 
-Data Cleaning & Transformation
+* Data Cleaning & Transformation
 
-Interactive Filters & Slicers
+* Interactive Filters & Slicers
 
 🎯 Business Impact
 
 This dashboard helps businesses:
 
-Identify high-performing categories and regions
+* Identify high-performing categories and regions
 
-Track profit contribution
+* Track profit contribution
 
-Detect return trends
+* Detect return trends
 
-Analyze customer value and loyalty
+* Analyze customer value and loyalty
 
-Support data-driven decision-making
+* Support data-driven decision-making
 
 <img width="1275" height="716" alt="Screenshot 2026-02-10 093340" src="https://github.com/user-attachments/assets/f2c1e761-9cb6-483e-b203-8fb58fb10d6b" />
 <img width="1276" height="717" alt="Screenshot 2026-02-10 093416" src="https://github.com/user-attachments/assets/aab4333b-98c5-4e16-adf2-4c0be0b0c61c" />
@@ -92,21 +92,22 @@ Support data-driven decision-making
 
 📚 Skills Demonstrated
 
-Data Visualization
+* Data Visualization
 
-KPI Development
+* KPI Development
 
-Business Intelligence
+* Business Intelligence
 
-Analytical Thinking
+* Analytical Thinking
 
-Dashboard Design
+* Dashboard Design
 
-Data Storytelling
+* Data Storytelling
 
 👤 Author
 
 Nilamadhab Panigrahi
+
 Aspiring Data Analyst | Power BI Enthusiast
 
 
