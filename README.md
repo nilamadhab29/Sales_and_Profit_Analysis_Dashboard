@@ -8,6 +8,9 @@ This project demonstrates how raw sales data can be transformed into meaningful 
 
 data visualization and KPI tracking.
 
+<img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/0ec95758-b1e9-465e-97e0-79556eb1c7c8" />
+
+
 🚀 Project Overview
 
 This dashboard provides insights into:
@@ -25,39 +28,40 @@ This dashboard provides insights into:
 It helps stakeholders understand performance by Region, Category, Segment, Customer, and Time.
 
 📌 Key Features
+
 1️⃣ Sales Analysis
 
-Sales by Category (Technology, Furniture, Office Supplies)
+* Sales by Category (Technology, Furniture, Office Supplies)
 
-Sales by Region (West, East, Central, South)
+* Sales by Region (West, East, Central, South)
 
-Monthly Sales Trend Analysis
+* Monthly Sales Trend Analysis
 
-State-wise Sales Map
+* State-wise Sales Map
 
 2️⃣ Profit Analysis
 
-Profit by Category
+* Profit by Category
 
-Profit by Region
+* Profit by Region
 
-Top 10 Customers by Profit
+* Top 10 Customers by Profit
 
-Top 10 Products by Profit
+* Top 10 Products by Profit
 
 3️⃣ Customer Insights
 
-Sales by Segment (Consumer, Corporate, Home Office)
+* Sales by Segment (Consumer, Corporate, Home Office)
 
-Customer Loyalty (Sales vs Order Frequency)
+* Customer Loyalty (Sales vs Order Frequency)
 
-Top 10 Customers by Sales
+* Top 10 Customers by Sales
 
 4️⃣ Operational Insights
 
-Average Days to Ship by Ship Mode
+* Average Days to Ship by Ship Mode
 
-Return Analysis (Delivered vs Returned Orders)
+* Return Analysis (Delivered vs Returned Orders)
 
 🛠 Tools & Technologies Used
 
