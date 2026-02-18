@@ -23,7 +23,7 @@ It helps stakeholders understand performance by Region, Category, Segment, Custo
 - Sales by Region (West, East, Central, South)
 - Monthly Sales Trend Analysis
 - State-wise Sales Map
-- 
+ 
 2️⃣ Profit Analysis
 - Profit by Category
 - Profit by Region
