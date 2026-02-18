@@ -16,28 +16,18 @@ This dashboard provides insights into:
 - 🚚 Average Shipping Time: 4 Days
 
 It helps stakeholders understand performance by Region, Category, Segment, Customer, and Time.
-
-📌 Key Features
+## 📌 Key Features
 
 1️⃣ Sales Analysis
-
-* Sales by Category (Technology, Furniture, Office Supplies)
-
-* Sales by Region (West, East, Central, South)
-
-* Monthly Sales Trend Analysis
-
-* State-wise Sales Map
-
+- Sales by Category (Technology, Furniture, Office Supplies)
+- Sales by Region (West, East, Central, South)
+- Monthly Sales Trend Analysis
+- State-wise Sales Map
 2️⃣ Profit Analysis
-
-* Profit by Category
-
-* Profit by Region
-
-* Top 10 Customers by Profit
-
-* Top 10 Products by Profit
+- Profit by Category
+- Profit by Region
+- Top 10 Customers by Profit
+- Top 10 Products by Profit
 
 3️⃣ Customer Insights
 
