@@ -1,29 +1,22 @@
-📊 Sales & Profit Analysis Dashboard (Power BI)
+# 📊 Sales & Profit Analysis Dashboard (Power BI)
 
 An interactive Business Intelligence dashboard built using Power BI to analyze sales performance, 
-
 profitability, customer behavior, and return trends.
 
 This project demonstrates how raw sales data can be transformed into meaningful business insights using
-
 data visualization and KPI tracking.
 
 <img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/5f09c197-e14a-4f18-9442-2c80a0ca8bcc" />
 
 
-🚀 Project Overview
-
+## 🚀 Project Overview
 This dashboard provides insights into:
 
-* 💰 Total Sales: $2.3M
-
-* 📈 Total Profit: $286K
-
-* 🧾 Total Orders: 5009
-
-* 📊 Profit Margin: 12.47%
-
-* 🚚 Average Shipping Time: 4 Days
+💰 Total Sales: $2.3M
+-📈 Total Profit: $286K
+-🧾 Total Orders: 5009
+-📊 Profit Margin: 12.47%
+-🚚 Average Shipping Time: 4 Days
 
 <img width="1096" height="3" alt="image" src="https://github.com/user-attachments/assets/6f6cd146-25ce-4594-b6b5-d05ef0b527cc" />
 
